@@ -83,6 +83,6 @@ desenvolvedores assim como para o github
 
 
 
-Site Desenvolvido em tecnologia HTML e CSS com responsividade presente em tablets e smartphone
+Site Desenvolvido em tecnologia HTML,CSS e JS com responsividade presente em tablets e smartphone
 
 [Acesse aqui](https://guime777.github.io/BarbeariaDev/) 
