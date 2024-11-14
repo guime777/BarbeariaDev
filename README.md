@@ -36,7 +36,7 @@ desenvolvedores assim como para o github
 
 - [x] paleta de cores
 
-- [ ] tipografia
+- [x] tipografia
 
 - [x] lista de tarefas do projeto
 
@@ -55,13 +55,20 @@ desenvolvedores assim como para o github
 </div>
 
 
+## Tipografia 
+
+- Sora [Acesse aqui](https://fonts.google.com/specimen/Sora) 
+
+
 ## Mockup (mobile e notebook)
 
 <div align=center>
-    <img src="./assets/img/Samsung-Galaxy-S20-127.0.0.1 (2).png" width=200>
-    <img src="./assets/img/Macbook-Air-127.0.0.1 (3).png" width=400>
-    
-<div>
+    <img src="./assets/img/Samsung-Galaxy-S20-guime777.github.io.png" width=200>
+    <img src="./assets/img/Macbook-Air-guime777.github.io (1).png" width=400>
+    <div>
+
+  
+
 
 ## Olá! Eu sou o Guilherme Ferreira 🖐️
 
