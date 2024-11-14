@@ -1,0 +1,22 @@
+/* ----------------------------- FORMULARIO--------------------------- */
+
+.contact {
+    padding: 50px 0;
+    background-color: var(--white-light);
+  }
+  
+  .contact h2 {
+    text-align: center;
+    margin-bottom: 20px;
+    font-weight: bold;
+  }
+  
+  .contact .form-group {
+    margin-bottom: 15px;
+  }
+  
+  .contact .btn {
+    display: block;
+    width: 100%;
+  }
+  

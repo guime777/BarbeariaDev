@@ -1,0 +1,49 @@
+
+/* ==========================
+   Estilo de Navegação Fixa
+   ========================== */
+
+/* Estilo para a navegação fixa dentro do cabeçalho */
+.navbar {
+    background-color: var(--secondary-normal);
+    z-index: 9999; /* Garantir que fique acima de outros elementos */
+  }
+  
+  .navbar a.nav-link {
+    color: var(--white-normal) !important; /* Define a cor do texto */
+    font-weight: 600;
+    margin-right: 20px;
+  }
+  
+  .navbar a.nav-link:hover {
+    color: var(--red-light) !important; /* Altera a cor do link ao passar o mouse */
+  }
+  
+  .navbar-brand {
+    color: var(--white-normal);
+    font-weight: bold;
+    font-size: 24px;
+  }
+  
+  .navbar-toggler {
+    border-color: var(--white-normal); /* Define a cor da borda do botão de toggler */
+  }
+  
+  .navbar-toggler-icon {
+    background-color: var(--red-dark); /* Cor do ícone de toggler */
+  }
+  
+  .navbar-nav {
+    margin-left: auto; /* Alinha os itens de navegação à direita */
+  }
+  
+  /* Estilo para o navbar fixo no topo da página */
+  .fixed-top {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 10px 0;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  

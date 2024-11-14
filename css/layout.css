@@ -6,20 +6,26 @@
 
 /* BG HOME */
 
-.bg-home::before{
+.bg-home::before {
     content: '';
     display: block;
     position: absolute;
     background-image: linear-gradient(to bottom, rgba(6,18,30,0.1), #06121e), url("../assets/img/bg.svg");
     left: 0;
-    top:0;
+    top: 0;
     width: 100%;
     height: 100%;
-    z-index: -1;
+    z-index: -1; /* Já está correto, apenas certifique-se de que o z-index do header seja maior */
     background-size: cover;
     background-repeat: no-repeat;
     background-position: 50% 0;
     opacity: 0.9;
+}
+
+.bg-home {
+    position: relative; /* Garante que o pseudo-elemento use a altura do container corretamente */
+    width: 100%;
+    min-height: 100vh; /* Garantir que a altura seja no mínimo a altura da tela */
 }
 
 

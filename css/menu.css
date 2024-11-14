@@ -1,0 +1,43 @@
+/* ==========================
+   Estilo do Menu Fixo
+   ========================== */
+
+/* Estilo geral do navbar fixo no topo */
+#navbar {
+    background-color: var(--primary-light);
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1000;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+  }
+  
+  .navbar-nav {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .navbar-nav .nav-item {
+    margin-left: 20px;
+  }
+  
+  .navbar-nav .nav-item a {
+    color: white;
+    text-decoration: none;
+    font-size: 16px;
+    padding: 14px 20px;
+    display: block;
+  }
+  
+  .navbar-nav .nav-item a:hover {
+    background-color: #575757;
+  }
+  
+  /* Ajuste para o conteúdo abaixo do cabeçalho fixo */
+  body {
+    padding-top: 120px; /* Dá espaçamento para o cabeçalho fixo */
+  }
+  
+  .hero {
+    padding-top: 100px; /* Adiciona mais espaço no conteúdo abaixo do cabeçalho */
+  }
