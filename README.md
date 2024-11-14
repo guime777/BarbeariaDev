@@ -8,11 +8,11 @@
 
 - [x] somente um dos itens do projeto pode ser usado do bootstrap
 
-- [ ] a navegação deve levar a outras áreas do site 
+- [x] a navegação deve levar a outras áreas do site 
 
 - [x] deve conter um botão de ação que ao ser clicado redirecione para o WhatsApp
 
-- [ ] o menu deve ser fixo 
+- [x] o menu deve ser fixo 
 
 - [x] layout moderno
 
@@ -38,7 +38,7 @@ desenvolvedores assim como para o github
 
 - [ ] tipografia
 
-- [ ] lista de tarefas do projeto
+- [x] lista de tarefas do projeto
 
 - [x] mockup (mobile e notebook)
 
