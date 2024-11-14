@@ -58,10 +58,6 @@ desenvolvedores assim como para o github
 
 - Sora [Acesse aqui](https://fonts.google.com/specimen/Sora) 
 
-## Tipografia 
-
-- Sora [Acesse aqui](https://fonts.google.com/specimen/Sora) 
-
 
 ## Mockup (mobile e notebook)
 
