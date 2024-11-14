@@ -54,6 +54,9 @@ desenvolvedores assim como para o github
     <img src="./assets/img/paleta de cores.png" width=400>
 </div>
 
+## Tipografia 
+
+- Sora [Acesse aqui](https://fonts.google.com/specimen/Sora) 
 
 ## Mockup (mobile e notebook)
 
